@@ -1,0 +1,7 @@
+# ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# do not push dataset (provide link on readme file)
+SurveySchema.csv
+freeFormResponses.csv
+multipleChoiceResponses.csv
